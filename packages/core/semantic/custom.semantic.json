@@ -1,0 +1,11 @@
+{
+  "site": true,
+  "definitions": {
+    "accordion": true,
+    "api": true,
+    "ad": true
+  },
+  "themes": {
+    "default": true
+  }
+}
